@@ -9,7 +9,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(135deg, #1DB954, #FF5EDF);
+  background: linear-gradient(135deg, #1DB954, #00FF7F);
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-size: cover;
